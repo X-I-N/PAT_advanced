@@ -1,5 +1,5 @@
-#include <iostream>
-#include <string>
+#include <cstdio>
+#include <algorithm>
 
 using namespace std;
 
